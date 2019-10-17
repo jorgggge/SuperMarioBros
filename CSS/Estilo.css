@@ -1,0 +1,35 @@
+body{
+	background-image: url("Imagenes/Fondo.png");
+	background-repeat: no-repeat;
+ 	background-size: 100%;
+}
+
+#Menu{
+	position: absolute;
+	width: 50%;
+	border-radius: 30px;
+	padding-bottom: 10px;
+	left: 10%; 
+	color:white;
+	font-family: 'Arial';
+}
+
+#Tabla_Menu{
+	width: 100%;
+}
+
+#Tabla_Menu li{
+	text-align: center;
+}
+
+#Tabla_Menu a{
+	text-decoration: none;
+}
+
+
+
+marquee{
+	position: relative;
+  	margin-top: 39%;
+}
+
